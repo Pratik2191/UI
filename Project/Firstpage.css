@@ -1,0 +1,98 @@
+.h{
+    border: solid;
+    height: 100vh;
+    background-image: url(./profile_img.jpg);
+    background-size: cover;
+    color: white;
+    
+}
+#A1{
+    display: flex;
+    justify-content: space-between;
+}
+.g{
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 350px;
+    font-family: 'Rubik Wet Paint', cursive;
+
+}
+.f{
+    font-size: 30px;
+    width: 350px;
+    margin-top: 40px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.e{
+    
+    width: 40%;
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+h1{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 40px;
+
+}
+p{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 20px;
+}
+#A2{
+    background-image: linear-gradient(to left, orange,red);
+    border: solid;
+    margin-left: 40px;
+    padding: 5px;
+    font-size: 20px;
+
+    
+}
+#A3{
+    color: white;
+    margin-left: 50px;
+}
+.d{
+    border: solid;
+    height: 80vh;
+    background-image: linear-gradient(to right, red,orange,purple);
+}
+#A4{
+    width: 1700px;
+    margin-left: 10px;
+}
+.c{
+    border: solid;
+    height: 400px;
+    background-image: linear-gradient(to right, red,orange,purple);
+}
+#A8{
+    margin-left: 50px;
+    color: white;
+}
+#A5{
+    border: solid;
+    width: 500px;
+    margin-left: 500px;
+}
+#A6{
+    margin-left: 200px;
+}
+#A7{
+    margin-left: 10px;
+}
+#img-arrow{
+    height: 60px;
+    position: fixed;
+    right: 1px;
+    bottom: 1px;
+    background-color: aliceblue;
+    margin-right: 20px;
+}
