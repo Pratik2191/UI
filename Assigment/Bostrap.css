@@ -1,0 +1,42 @@
+#A{
+    border: solid;
+    font-size: 30px;
+    height: 80px;
+}
+#B{
+    
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 80px;
+    margin-left: 480px;
+
+
+}
+#D{
+    height: 180px;
+    margin-right: 10px;
+}
+.img-ss{
+    height: 90vh;
+    width: 20px;
+}
+.carousell{
+    
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#E{
+    font-size: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    margin-left: 20px;
+}
+.Card{
+    
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.card{
+    border: solid;
+}
